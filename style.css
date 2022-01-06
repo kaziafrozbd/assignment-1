@@ -71,9 +71,16 @@ a.color-button{
     width: 50%;
     margin-top: 20px;
 }
-
-
-
-
-
+.community-area{
+    margin: 50px 5%;
+}
+.community-area .text-area{
+    padding-right: 100px;
+}
+.footer-area{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 25px 0;
+}
 
