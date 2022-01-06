@@ -102,6 +102,10 @@ a{
 }
 .form-sapce{
     padding: 5px 20px;
+    margin-right: 25px;
+}
+.form h2{
+    padding-bottom: 20px;
 }
 .footer-area{
     background-color: black;
