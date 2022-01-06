@@ -25,12 +25,17 @@ h1{
 .orange-text{
     color: orange;
 }
-a.color-button{
+a{
+    display: inline-block;
+    margin: 20px 0;
+}
+.color-button{
     text-decoration: none;
     color: white;
     background-color: tomato;
     padding: 10px 30px;
     border-radius: 5px;
+    
 }
 .side-border{
     border-left: 3px solid red ;
@@ -77,6 +82,9 @@ a.color-button{
 .community-area .text-area{
     padding-right: 100px;
 }
+.form{
+    text-align: center;
+}
 .footer-area{
     background-color: black;
     text-align: center;
@@ -85,4 +93,15 @@ a.color-button{
 }
 footer h2{
     font-family: 'Vujahday Script', cursive;
+}
+.social-link a{
+    text-decoration: none;
+    color: darkslategrey;
+    padding: 5px 8px;
+    display: inline-block;
+    margin: 20px 0;
+    
+}
+hr{
+    margin: 0 300px;
 }
