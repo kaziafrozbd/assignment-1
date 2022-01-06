@@ -58,3 +58,22 @@ a.color-button{
 #part-three{
     background-color: darkgray;
 }
+.develop-area{
+    margin: 150px 5%;
+}
+.img-area{
+    width: 40%;
+}
+.img-area img{
+    width: 80%;
+}
+.text-area{
+    width: 50%;
+    margin-top: 20px;
+}
+
+
+
+
+
+
